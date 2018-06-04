@@ -1,0 +1,2 @@
+[2018-06-03 18:59:18] (ERROR @ D:\WebServer\domains\myproject.my\core\xpdo\cache\xpdocachemanager.class.php : 514) PHP warning: unlink(D:/WebServer/domains/myproject.my/setup/controllers/options.php): Resource temporarily unavailable
+[2018-06-03 18:59:18] (ERROR @ D:\WebServer\domains\myproject.my\core\xpdo\cache\xpdocachemanager.class.php : 522) PHP warning: closedir(): supplied resource is not a valid Directory resource

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="myproject.my">
+    <serverData>
+      <paths name="localhost">
+        <serverdata>
+          <mappings>
+            <mapping deploy="\" local="D:/Сайты/_НУЖНОЕ/mycomponent1" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="myproject.my">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/myproject.my" local="D:/Сайты/_НУЖНОЕ/httpHeaders" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
